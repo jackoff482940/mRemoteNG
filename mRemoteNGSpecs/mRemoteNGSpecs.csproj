@@ -41,6 +41,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="log4net" Version="3.3.0" />
     <ProjectReference Include="..\mRemoteNG\mRemoteNG.csproj" />
   </ItemGroup>
 
